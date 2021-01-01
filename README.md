@@ -1,2 +1,4 @@
 # dbstream
-Java Database Query Like Streams
+A new way to feel the database
+
+Java Database Queries Like Streams
