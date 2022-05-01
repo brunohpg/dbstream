@@ -1,0 +1,32 @@
+br/com/evolware/dbstream/ComparisonOperator.java
+ br.com.evolware.dbstream.ComparisonOperator
+br/com/evolware/dbstream/Operator.java
+ br.com.evolware.dbstream.Operator
+br/com/evolware/dbstream/BooleanOperator.java
+ br.com.evolware.dbstream.BooleanOperator
+br/com/evolware/dbstream/BooleanExpressionLink.java
+ br.com.evolware.dbstream.BooleanExpressionLink
+br/com/evolware/dbstream/ExpressionLink.java
+ br.com.evolware.dbstream.ExpressionLink
+br/com/evolware/dbstream/DataStore.java
+ br.com.evolware.dbstream.DataStore
+br/com/evolware/dbstream/Expression.java
+ br.com.evolware.dbstream.Expression
+br/com/evolware/dbstream/PrimitiveValueExpression.java
+ br.com.evolware.dbstream.PrimitiveValueExpression
+br/com/evolware/dbstream/ValueExpression.java
+ br.com.evolware.dbstream.ValueExpression
+br/com/evolware/dbstream/ColumnValueExpression.java
+ br.com.evolware.dbstream.ColumnValueExpression
+br/com/evolware/dbstream/ExpressionBuilder.java
+ br.com.evolware.dbstream.ExpressionBuilder
+br/com/evolware/dbstream/OperationValueExpression.java
+ br.com.evolware.dbstream.OperationValueExpression
+br/com/evolware/dbstream/BooleanExpression.java
+ br.com.evolware.dbstream.BooleanExpression
+br/com/evolware/dbstream/ComparisonExpression.java
+ br.com.evolware.dbstream.ComparisonExpression
+br/com/evolware/dbstream/NegateBooleanExpression.java
+ br.com.evolware.dbstream.NegateBooleanExpression
+br/com/evolware/dbstream/PrimitiveBooleanExpression.java
+ br.com.evolware.dbstream.PrimitiveBooleanExpression

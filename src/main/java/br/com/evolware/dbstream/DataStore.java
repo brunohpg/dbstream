@@ -1,9 +1,26 @@
 package br.com.evolware.dbstream;
 
-public class DataStore {
+import java.util.function.Function;
 
-    public DataStore filter() {
+/**
+ * A view os some data of database.
+ */
+public class DataStore<T> {
+
+    private DataStore parent;
+
+    private String table;
+    private String[] selectedFields;
+
+    public DataStore<T> filter(Function<ExpressionBuilder, BooleanExpressionLink> exprFilter) {
+
+        return null;
 
     }
+
+    public DataStore<T> columns(String... columns) {
+
+    }
+
 
 }
